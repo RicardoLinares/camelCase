@@ -1,0 +1,15 @@
+Comandos de git:
+
+
+primer caso:
+
+Cuando trabajo de forma local:
+
+"git init"
+
+
+segundo caso:
+
+Cuando trabajo en un repositorio web:
+
+"git clone <repositorio>"

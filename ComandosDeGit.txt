@@ -2,11 +2,6 @@ Comandos de git:
 
 Para iniciar un repositorio:
 
-
-
-
-
-
 primer caso:
 
 Cuando trabajo de forma local:
@@ -22,3 +17,11 @@ Cuando trabajo en un repositorio web:
 
 Pasos a seguir para cada commit:
 
+1) Fijarse el estado:
+"git status"
+
+2) Agregar los cambios:
+"git add"
+
+3) tomar la foto:
+"git commit -m "MENSAJE" " 

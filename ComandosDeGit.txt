@@ -1,5 +1,11 @@
 Comandos de git:
 
+Para iniciar un repositorio:
+
+
+
+
+
 
 primer caso:
 
@@ -14,9 +20,5 @@ Cuando trabajo en un repositorio web:
 
 "git clone <repositorio>"
 
+Pasos a seguir para cada commit:
 
-tercer caso:
-
-Cuando se estas listo para subirlo a la web:
-
-"git push <repositorio>"

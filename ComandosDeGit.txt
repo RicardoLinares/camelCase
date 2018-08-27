@@ -13,3 +13,10 @@ segundo caso:
 Cuando trabajo en un repositorio web:
 
 "git clone <repositorio>"
+
+
+tercer caso:
+
+Cuando se estas listo para subirlo a la web:
+
+"git push <repositorio>"

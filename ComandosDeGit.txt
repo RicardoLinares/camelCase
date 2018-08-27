@@ -25,3 +25,9 @@ Pasos a seguir para cada commit:
 
 3) tomar la foto:
 "git commit -m "MENSAJE" " 
+
+
+Pasos para subir a la web:
+
+1) empujar los commits al origen:
+"git push origin master"
